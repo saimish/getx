@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "91855915516",
+    "project_id": "pikipedia-e777e",
+    "storage_bucket": "pikipedia-e777e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91855915516:android:05b903f966bca9cbc5ca79",
+        "android_client_info": {
+          "package_name": "com.pikipedia.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91855915516-lvj6b2bnn7u93h36sei29gtkus240gdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pikipedia.app",
+            "certificate_hash": "989efebe4390a4c81af14deafb7c1f0cafaee584"
+          }
+        },
+        {
+          "client_id": "91855915516-68f3mufqcpentcvf44fsevcb9gi3e1ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgPkpJioJ6jz7ygQ-5pa_91sS93z8J_6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91855915516-68f3mufqcpentcvf44fsevcb9gi3e1ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
